@@ -1,6 +1,6 @@
-# main_app
+# ecommerce_app
 
-A new Flutter project.
+E commerce app UI 
 
 ## Getting Started
 
